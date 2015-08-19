@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+
+    <script src="js/jquery-2.1.4.js"></script>
+
+    <!-- ionic/angularjs js -->
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <!-- your app's js -->
+    <script src="js/services.js"></script>
+    <script src="js/controllers.js"></script>
+    <script src="js/app.js"></script>
+  </head>
+
+  <body ng-app="sfcpar">
+    <ion-pane>
+      <ion-header-bar class="bar-energized">
+        <h1 class="title">SF Chinatown Park and Ride</h1>
+      </ion-header-bar>
+
+      <ion-content ng-controller="mainCtrl">
+       <div class="categorySelect">
+         <label class="item item-input item-select">
+           <div class="input-label">Category</div>
+           <select ng-model="selectedCategory" ng-init="selectedCategory='Restaurants'"
+                   ng-change="getMerchantsByCategory(selectedCategory)">
+             <option>Fashion &amp Beauty</option>
+             <option>Health Services</option>
+             <option selected>Restaurants</option>
+           </select>
+         </label>
+       </div>
+       <button ng-click="getMerchants()">Get Merchants</button>
+       <ul id='merchants'></ul>
+      </ion-content>
+    </ion-pane>
+  </body>
+</html>

@@ -1,0 +1,4025 @@
+[
+    {
+        "name": "AA Boutique",
+        "name_chinese": "\u591c\u67b6\u5b50",
+        "address": "710 Jackson St.",
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Amerasia Cleaners and Fashion",
+        "name_chinese": "\u7f8e\u4e9e\u6642\u88dd\u4e7e\u6d17",
+        "address": "928 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-398-7053",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Annie Faye Fashion",
+        "name_chinese": "\u5b89\u59ae\u83f2\u6642\u88dd",
+        "address": "1028 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-956-5040",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Asian Image",
+        "name_chinese": "\u96c5\u8ed2\u6a02",
+        "address": "800 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-398-2602",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Asian Styles",
+        "name_chinese": null,
+        "address": "808 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-398-2602",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Asian Trends",
+        "name_chinese": "\u91d1\u4e9e\u6d32",
+        "address": "742 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-788-3828",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Delicate Boutique",
+        "name_chinese": "\u76db\u88dd\u7cfb\u5217",
+        "address": "918B Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-743-9323",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Dragon Seed",
+        "name_chinese": "\u9f8d\u5b50\u884c",
+        "address": "735 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-421-8883",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "H&S Fashions LLC",
+        "name_chinese": null,
+        "address": "810 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-627-6988",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Hua Li Fashion",
+        "name_chinese": "\u83ef\u9e97\u6642\u88dd",
+        "address": "910 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-378-8808",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Hung Dat Alterations and Gifts",
+        "name_chinese": "\u6052\u9054\u7cbe\u54c1",
+        "address": "850 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-399-1226",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "In-Fashion",
+        "name_chinese": "\u6642\u51f1\u88dd\u7433",
+        "address": "734 Broadway",
+        "address_unit": null,
+        "phone_number": "415-956-1138",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "JW Fashion Jewelry Arts",
+        "name_chinese": "\u5353\u59ff\u6642\u88dd\u5bf6\u5de5\u85dd\u54c1\u516c\u53f8",
+        "address": "658 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-986-9288",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Lenore Fashion",
+        "name_chinese": null,
+        "address": "918 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-743-9323",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Let's Go Boutique",
+        "name_chinese": null,
+        "address": "619 Broadway",
+        "address_unit": null,
+        "phone_number": "415-989-8811",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Let's Go Gifts/K&A Fashion",
+        "name_chinese": "\u4f0a\u4eba\u574a",
+        "address": "802 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-982-1188",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Lily Boutique",
+        "name_chinese": null,
+        "address": "745 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-398-0978",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Linda Boutique",
+        "name_chinese": null,
+        "address": "952B Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-989-0420",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Ling Ling Fashion",
+        "name_chinese": null,
+        "address": "943 Kearny St,",
+        "address_unit": null,
+        "phone_number": "415-391-8881",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "May Shun Trading Co.",
+        "name_chinese": "\u7f8e\u5229\u65e5\u7528\u767e\u8ca8\u516c\u53f8",
+        "address": "1412 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-398-0188",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Melody",
+        "name_chinese": "\u5999\u65b0",
+        "address": "1051 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-788-7829",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Mix's Fashion",
+        "name_chinese": "\u91d1\u4e95\u5c4b",
+        "address": "801 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-956-1638",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Nancy's Fashion",
+        "name_chinese": null,
+        "address": "1012 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-398-1639",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "New Fashion Boutique & Gift Shop",
+        "name_chinese": "\u65b0\u6f6e\u6642\u88dd\u7cbe\u54c1\u5e97",
+        "address": "780 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-362-8863",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "New Shanghai",
+        "name_chinese": null,
+        "address": "736 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-788-2328",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Sa Sa Boutique",
+        "name_chinese": null,
+        "address": "876 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-834-1660",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Su-Y Fashion and Gifts, Co.",
+        "name_chinese": null,
+        "address": "1199 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-781-8088",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "T&L T-Shirt",
+        "name_chinese": null,
+        "address": "656 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-982-5205",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Update Fashion",
+        "name_chinese": null,
+        "address": "1333 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-992-1631",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Victor Johnson",
+        "name_chinese": null,
+        "address": "1343 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-297-9322",
+        "category": "Fashion & Beauty",
+        "subcategory": "Clothing Stores"
+    },
+    {
+        "name": "Ocean Skin Care",
+        "name_chinese": "\u6d77\u6d0b\u7f8e\u5bb9\u8b77\u819a\u4e2d\u5fc3",
+        "address": "899 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-781-7078",
+        "category": "Fashion & Beauty",
+        "subcategory": "Beauty Store"
+    },
+    {
+        "name": "Canton Bazaar",
+        "name_chinese": "\u5927\u4e0a\u6d77",
+        "address": "616 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-362-5750",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "China Station Gifts Boutique",
+        "name_chinese": null,
+        "address": "456, 460 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-397-4848",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Chinatown Kite Shop",
+        "name_chinese": null,
+        "address": "717 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-989-5182",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Chong Imports",
+        "name_chinese": "\u660c\u8a18\u68e7\u8fa6\u5e84",
+        "address": "838 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-982-1432",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Chung Kui Imports & Exports Co., LLC",
+        "name_chinese": null,
+        "address": "1306 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-362-1712",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "E&M Star Inc.",
+        "name_chinese": null,
+        "address": "1021 Grant Ave.",
+        "address_unit": "#6, 7",
+        "phone_number": "415-279-4497",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Fat Ming Co.",
+        "name_chinese": "\u767c\u660e\u516c\u53f8",
+        "address": "903 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-982-1299",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Foo Wah Cheung Jewelry Co.",
+        "name_chinese": "\u5bcc\u83ef\u7965\u73e0\u5bf6\u91d1\u884c",
+        "address": "852 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-391-4067",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Golden Star Gift Trading Co.",
+        "name_chinese": "\u91d1\u661f\u53e4\u73a9\u7389\u5668\u5546\u884c",
+        "address": "1313 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-834-9160",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Golden Way Trading Co.",
+        "name_chinese": null,
+        "address": "1024 Stockton St.",
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Golden Zone 99 Cents",
+        "name_chinese": "\u9ec3\u91d1\u5c4b",
+        "address": "723 Vallejo St.",
+        "address_unit": null,
+        "phone_number": "415-956-3813",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Goodview Trading Co.",
+        "name_chinese": "\u98a8\u5f69\u8cbf\u6613\u516c\u53f8",
+        "address": "678 Broadway",
+        "address_unit": null,
+        "phone_number": "415-781-1388",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Goodview Trading Co.",
+        "name_chinese": "\u98a8\u5f69\u8cbf\u6613\u516c\u53f8",
+        "address": "837 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-398-7086",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Health Source USA",
+        "name_chinese": "\u7f8e\u570b\u820a\u91d1\u5c71\u4fdd\u5065\u7cbe\u54c1\u4e2d\u5fc3",
+        "address": "766 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-362-8899",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Heart of Shanghai",
+        "name_chinese": null,
+        "address": "857-867 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-981-1168",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Jian Min",
+        "name_chinese": "\u5065\u6c11\u4fdd\u5065\u85e5\u884c",
+        "address": "822 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-986-1168",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "King Exquisite Inc.",
+        "name_chinese": "\u6cd5\u5bf6\u4f5b\u5177\u7cbe\u54c1",
+        "address": "756 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-391-2806",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Kwong Cheong Tai",
+        "name_chinese": "\u5ee3\u660c\u6cf0",
+        "address": "1199 Stockton St.",
+        "address_unit": "#B",
+        "phone_number": "415-986-6868",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Kwong Sang Tam Co.",
+        "name_chinese": "\u8b5a\u5ee3\u751f",
+        "address": "941, 947 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-421-7765",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Lucky Dragon Gift Shop",
+        "name_chinese": "\u6052\u9f8d\u79ae\u54c1\u5de5\u85dd\u5e97",
+        "address": "815 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-544-0832",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "May Sun Co.",
+        "name_chinese": "\u7f8e\u65b0\u670d\u88dd\u516c\u53f8",
+        "address": "1151 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-425-8153",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "New Wentworth Trading Inc.",
+        "name_chinese": "\u65b0\u5fb7\u548c\u4f5b\u5177",
+        "address": "737 Jackson St.",
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Oriental Shopping Center",
+        "name_chinese": "\u6771\u65b9\u5546\u5834",
+        "address": "620 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-397-7366",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Peking Bazaar",
+        "name_chinese": "\u5927\u4e0a\u6d77",
+        "address": "826, 832 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-982-9847",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Powell St. Gifts",
+        "name_chinese": "\u5947\u8da3\u5c4b",
+        "address": "1101 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-391-9189",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Siu How Ling Lung Gift Store",
+        "name_chinese": null,
+        "address": "927 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-683-8525",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Special Gift Collections",
+        "name_chinese": "\u540d\u610f\u7cbe\u54c1",
+        "address": "728 Pacific Ave.",
+        "address_unit": "#111",
+        "phone_number": "415-362-3228",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Tangerine Accents",
+        "name_chinese": "\u67d1",
+        "address": "1021 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-982-6654",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "The Wok Shop",
+        "name_chinese": null,
+        "address": "718 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-989-3797",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Tian Yu Company",
+        "name_chinese": null,
+        "address": "903 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-982-1299",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Treasure Island Gifts",
+        "name_chinese": null,
+        "address": "932 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-362-2888",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "UU Company",
+        "name_chinese": "\u4f9d\u83ef\u4f9d\u5229\u516c\u53f8",
+        "address": "709 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-398-2816",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Wah Shui Corp",
+        "name_chinese": null,
+        "address": "957 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-788-2988",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "WB Company",
+        "name_chinese": null,
+        "address": "838 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-391-7188",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Wo Yick Co., Inc.",
+        "name_chinese": "\u548c\u76ca\u73e0\u5bf6\u884c",
+        "address": "911 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-392-3787",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Y&Y Gift Shop",
+        "name_chinese": null,
+        "address": "783 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-986-3383",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Yat On",
+        "name_chinese": null,
+        "address": "157 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-788-8838",
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Yummy Bites",
+        "name_chinese": null,
+        "address": "615 Grant Ave.",
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Fashion & Beauty",
+        "subcategory": "Souvenir Shops"
+    },
+    {
+        "name": "Andy's Jewelry Co. Inc.",
+        "name_chinese": "\u82f1\u7687\u73e0\u5bf6\u91d1\u884c",
+        "address": "786 Vallejo St.",
+        "address_unit": "#B",
+        "phone_number": "415-956-7588",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Beauty Jewelry & Gift Co.",
+        "name_chinese": null,
+        "address": "1021 Grant Ave.",
+        "address_unit": "#2",
+        "phone_number": "415-421-1318",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Cheng's Jewelry Watch Co.",
+        "name_chinese": "\u912d\u9d3b\u8208\u9418\u9336\u91d1\u884c",
+        "address": "1010 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-989-1999",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "China Gem Co.",
+        "name_chinese": "\u4e2d\u570b\u5bf6\u77f3\u516c\u53f8",
+        "address": "500 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-397-5070",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Ching Ching Co.",
+        "name_chinese": "\u9752\u9752\u516c\u53f8",
+        "address": "810 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-398-6128",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Donald Jewelry Co.",
+        "name_chinese": "\u5982\u610f",
+        "address": "727 Jackson St.",
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Eternity Fine Jewelry",
+        "name_chinese": "\u6c38\u6052\u73e0\u5bf6\u884c",
+        "address": "751 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-291-8228",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Furama Jewelry Co.",
+        "name_chinese": "\u5bcc\u9e97\u83ef\u73e0\u5bf6\u91d1\u884c",
+        "address": "155 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-291-8349",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Gum Sum Fine Gold Jewelry",
+        "name_chinese": "\u91d1\u5c71\u91d1\u8216",
+        "address": "1038 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-397-9315",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Hap Yuen Jewelry",
+        "name_chinese": "\u5354\u9d3b\u91d1\u92ea",
+        "address": "806 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-362-1309",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Hoang Jewelry Co.",
+        "name_chinese": "\u9e97\u6607\u73e0\u5bf6\u516c\u53f8",
+        "address": "535 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-291-8118",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Hoang Jewelry Co.",
+        "name_chinese": null,
+        "address": "597C Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-291-8118",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Hollywood Too",
+        "name_chinese": null,
+        "address": "805 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-956-0825",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "JC Jewelry",
+        "name_chinese": "\u7389\u8da3\u8ed2",
+        "address": "830 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-398-3842",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Jen Ju & Co. Inc.",
+        "name_chinese": "\u73cd\u73e0\u767e\u8ca8\u516c\u53f8",
+        "address": "801 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-989-6299",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "L.D. Jewelry",
+        "name_chinese": null,
+        "address": "658 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-391-1883",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Li's Group LLC",
+        "name_chinese": "\u5927\u5e73\u6d0b\u947d\u77f3\u65c5\u904a\u516c\u53f8",
+        "address": "670 Commercial Pl.",
+        "address_unit": null,
+        "phone_number": "415-788-1988",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Lisa Jewelry Co.",
+        "name_chinese": "\u9e97\u73e0\u73e0\u5bf6\u516c\u53f8",
+        "address": "540 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-788-7686",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Mei Tai Jewelry",
+        "name_chinese": "\u7f8e\u6cf0\u73e0\u5bf6\u884c",
+        "address": "910 Stockton St.",
+        "address_unit": "#1",
+        "phone_number": "415-781-3733",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Miki House",
+        "name_chinese": "\u7cbe\u54c1\u574a",
+        "address": "712 Vallejo St.",
+        "address_unit": "#B",
+        "phone_number": "415-781-3208",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Regal Jewelry Company",
+        "name_chinese": "\u9f8d\u660c\u73e0\u5bf6\u91d1\u884c",
+        "address": "878 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-421-5447",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "S. Gift Trade Company",
+        "name_chinese": "\u5357\u65b9\u5de5\u85dd\u79ae\u54c1\u8ce2\u6613\u516c\u53f8",
+        "address": "720 Broadway",
+        "address_unit": null,
+        "phone_number": "415-788-2288",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Sing Sang Jewelry",
+        "name_chinese": "\u65b0\u751f\u91d1\u98fe\u884c",
+        "address": "768 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-781-3242",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "The Merchant Of China Inc.",
+        "name_chinese": null,
+        "address": "930 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-834-1615",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Tong Sing Jewelry Co.",
+        "name_chinese": null,
+        "address": "615 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-392-0838",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Tune Get Jewelry",
+        "name_chinese": "\u4fca\u5091\u91d1\u8216",
+        "address": "1060 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-397-3889",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Tung Lee Jewelry",
+        "name_chinese": "\u6771\u5229",
+        "address": "506 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-956-1667",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "V&M Fine Jewelry",
+        "name_chinese": null,
+        "address": "953 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-362-0986",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Wen Sang Jade",
+        "name_chinese": "\u6587\u751f\u7389\u5668",
+        "address": "64 Wentworth Pl.",
+        "address_unit": null,
+        "phone_number": "415-391-2181",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Shuang Li Trading Co.",
+        "name_chinese": "\u96d9\u5229\u978b\u696d\u516c\u53f8",
+        "address": "749 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-398-2683",
+        "category": "Fashion & Beauty",
+        "subcategory": "Jewelry"
+    },
+    {
+        "name": "Charles L. Chin M.D.",
+        "name_chinese": null,
+        "address": "1056 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-362-2450",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Cheung Dental Group",
+        "name_chinese": "\u5f35\u6c0f\u7259\u79d1\u4e2d\u5fc3",
+        "address": "160 Waverly Pl.",
+        "address_unit": "#301, 304",
+        "phone_number": "415-399-8888",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Chinatown Dental Group",
+        "name_chinese": "\u83ef\u57e0\u7259\u91ab\u4e2d\u5fc3",
+        "address": "771 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-362-7936",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Chinese Medical Ortopedics & Traumology Therapy Center",
+        "name_chinese": "\u4e2d\u91ab\u8dcc\u6253\u50b7\u79d1\u6cbb\u7642\u4e2d\u5fc3",
+        "address": "835 Clay St.",
+        "address_unit": "#209",
+        "phone_number": "415-518-4672",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Columbus Avenue Dental Care",
+        "name_chinese": null,
+        "address": "225 Columbus Ave.",
+        "address_unit": null,
+        "phone_number": "415-989-2729",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Crystal Clear Vision Center",
+        "name_chinese": "\u9f8d\u5149\u773c\u79d1\u4e2d\u5fc3",
+        "address": "781 Vallejo St.",
+        "address_unit": null,
+        "phone_number": "415-677-9930",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Dr. Alfred Lee & Dr. Michael Lee",
+        "name_chinese": "\u674e\u61c9\u6f6e\u773c\u93e1",
+        "address": "748 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-781-7437",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Dr. Ryan Kir, DDS",
+        "name_chinese": "\u8cc8\u5fd7\u6069\u7259\u91ab\u535a\u58eb",
+        "address": "814 Broadway",
+        "address_unit": null,
+        "phone_number": "415-392-0788",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Dr. Wu's Acupuncture and Herbal Center",
+        "name_chinese": null,
+        "address": "835 Clay St.",
+        "address_unit": "#102",
+        "phone_number": "415-362-7276",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Ey'Con 88",
+        "name_chinese": "\u9802\u597d\u8996\u529b",
+        "address": "753 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-984-1960",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Eye Studio",
+        "name_chinese": "\u85dd\u93e1\u5eca",
+        "address": "611 Broadway",
+        "address_unit": null,
+        "phone_number": "415-982-0388",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Herbal Doctor, Chen Ming",
+        "name_chinese": null,
+        "address": "1341 Stockton St.",
+        "address_unit": "#G",
+        "phone_number": "415-397-1299",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Jing Wei Huang, L.Ac.",
+        "name_chinese": "\u4e09\u5bf6\u5802",
+        "address": "15 Wentworth Pl.",
+        "address_unit": null,
+        "phone_number": "415-989-0603",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "K.K. Pun, MD. PHD,",
+        "name_chinese": "\u6f58\u5efa\u57fa\u91ab\u5b78\u535a\u58eb",
+        "address": "950 Stockton St.",
+        "address_unit": "#375",
+        "phone_number": "415-421-8999",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Oriental Acupuncture & Herb Center",
+        "name_chinese": "\u9673\u6d69\u57f7\u7167\u91dd\u7078\u4e2d\u91ab\u5e2b",
+        "address": "835 Clay St.",
+        "address_unit": "#103",
+        "phone_number": "415-834-9893",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Paul Li Acupuncture Clinic",
+        "name_chinese": "\u674e\u666e\u6717",
+        "address": "835 Clay St.",
+        "address_unit": "#200",
+        "phone_number": "415-982-7721",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "T.L.C.Optical Co.",
+        "name_chinese": "\u6676\u6676\u773c\u93e1",
+        "address": "852 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-397-9718",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "William H. Yim, D.D.S.",
+        "name_chinese": "\u56b4\u6176\u7152\u52a0\u7701\u5927\u5b78\u7259\u91ab\u535a\u58eb",
+        "address": "160 Waverly Pl.",
+        "address_unit": "#202",
+        "phone_number": "415-981-0185",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Ying Heng Ho",
+        "name_chinese": "\u4f55\u61c9\u8861",
+        "address": "106 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-391-5468",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Zhao Acupuncture Clinic",
+        "name_chinese": "\u8d99\u5ee3\u5049\u535a\u58eb",
+        "address": "126 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-788-1983",
+        "category": "Health Services",
+        "subcategory": "Health Clinics"
+    },
+    {
+        "name": "Wellman's Pharmacy",
+        "name_chinese": "\u5eb7\u5065\u85e5\u884c",
+        "address": "728 Pacific Ave.",
+        "address_unit": "#110",
+        "phone_number": "415-788-8882",
+        "category": "Health Services",
+        "subcategory": "Pharmacies"
+    },
+    {
+        "name": "Wellman's Pharmacy",
+        "name_chinese": "\u5eb7\u5065\u85e5\u623f",
+        "address": "1053 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-362-3622",
+        "category": "Health Services",
+        "subcategory": "Pharmacies"
+    },
+    {
+        "name": "Daxin Linen Outlet",
+        "name_chinese": "\u5927\u65b0\u767e\u8ca8\u516c\u53f8",
+        "address": "799 Broadway",
+        "address_unit": null,
+        "phone_number": "415-398-1998",
+        "category": "Household Goods and Services",
+        "subcategory": "Home Furnishing"
+    },
+    {
+        "name": "Easy Traveler",
+        "name_chinese": "\u5fb7\u83ef",
+        "address": "739 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-986-8772",
+        "category": "Household Goods and Services",
+        "subcategory": "Home Furnishing"
+    },
+    {
+        "name": "Heng Chueng Trading Co.",
+        "name_chinese": "\u6052\u660c\u8cbf\u6613\u516c\u53f8",
+        "address": "1212 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-788-3688",
+        "category": "Household Goods and Services",
+        "subcategory": "Home Furnishing"
+    },
+    {
+        "name": "Kong Ming Co.",
+        "name_chinese": "\u5149\u660e\u73bb\u7483\u93e1\u756b\u516c\u53f8",
+        "address": "1232 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-989-6508",
+        "category": "Household Goods and Services",
+        "subcategory": "Home Furnishing"
+    },
+    {
+        "name": "Massage King, LLC",
+        "name_chinese": "\u6309\u6469\u5927\u738b",
+        "address": "777 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-288-8638",
+        "category": "Household Goods and Services",
+        "subcategory": "Home Furnishing"
+    },
+    {
+        "name": "Greatmin Trading Co.",
+        "name_chinese": "\u5049\u6c11\u8cbf\u6613\u516c\u53f8",
+        "address": "780 Broadway",
+        "address_unit": null,
+        "phone_number": "415-392-2788",
+        "category": "Household Goods and Services",
+        "subcategory": "Household/Variety Stores"
+    },
+    {
+        "name": "Andy's International Co.",
+        "name_chinese": "\u820a\u91d1\u5c71\u5c08\u8ce3\u5e97",
+        "address": "1021 Grant Ave.",
+        "address_unit": "#5",
+        "phone_number": "415-291-0907",
+        "category": "Household Goods and Services",
+        "subcategory": "Household/Variety Stores"
+    },
+    {
+        "name": "Fengcai Trading",
+        "name_chinese": null,
+        "address": "915 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-398-7086",
+        "category": "Household Goods and Services",
+        "subcategory": "Household/Variety Stores"
+    },
+    {
+        "name": "Golden Harvest Investment and Trading Inc.",
+        "name_chinese": "\u559c\u83ef\u516c\u53f8",
+        "address": "1100 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-788-5232",
+        "category": "Household Goods and Services",
+        "subcategory": "Household/Variety Stores"
+    },
+    {
+        "name": "Tan Tan Trading Co.",
+        "name_chinese": "\u5929\u5929\u96c6\u5718",
+        "address": "1199 Stockton St.",
+        "address_unit": "#C",
+        "phone_number": "415-989-2238",
+        "category": "Household Goods and Services",
+        "subcategory": "Household/Variety Stores"
+    },
+    {
+        "name": "Wayne's Company",
+        "name_chinese": "\u5149\u83ef\u570b\u969b\u8cbf\u6613\u516c\u53f8",
+        "address": "1426 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-835-3782",
+        "category": "Household Goods and Services",
+        "subcategory": "Household/Variety Stores"
+    },
+    {
+        "name": "Y.L. Trading Company",
+        "name_chinese": null,
+        "address": "53 Ross Ln.",
+        "address_unit": null,
+        "phone_number": "415-392-3618",
+        "category": "Household Goods and Services",
+        "subcategory": "Household/Variety Stores"
+    },
+    {
+        "name": "Y.L. Trading Company",
+        "name_chinese": "\u88d5\u9686\u8208\u65e5\u7528\u767e\u8ca8\u516c\u53f8",
+        "address": "870 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-238-3523",
+        "category": "Household Goods and Services",
+        "subcategory": "Household/Variety Stores"
+    },
+    {
+        "name": "Hi-Times Discount Office Products",
+        "name_chinese": "\u91d1\u6642\u6587\u5177\u516c\u53f8",
+        "address": "706 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-397-1288",
+        "category": "Household Goods and Services",
+        "subcategory": "Office Supplies"
+    },
+    {
+        "name": "Kong Chi Company",
+        "name_chinese": "\u5eb7\u85dd\u516c\u53f8",
+        "address": "898 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-788-8933",
+        "category": "Household Goods and Services",
+        "subcategory": "Office Supplies"
+    },
+    {
+        "name": "Super 888 Plus",
+        "name_chinese": null,
+        "address": "1301 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-391-9898",
+        "category": "Household Goods and Services",
+        "subcategory": "Office Supplies"
+    },
+    {
+        "name": "Update Entertainment",
+        "name_chinese": "\u65b0\u6f6e\u7cbe\u54c1",
+        "address": "607 Broadway",
+        "address_unit": null,
+        "phone_number": "415-989-1551",
+        "category": "Household Goods and Services",
+        "subcategory": "Office Supplies"
+    },
+    {
+        "name": "Religious Goods",
+        "name_chinese": null,
+        "address": null,
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Household Goods and Services",
+        "subcategory": "Office Supplies"
+    },
+    {
+        "name": "AMDT Trading Co.",
+        "name_chinese": null,
+        "address": "1021 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-397-1532",
+        "category": "Household Goods and Services",
+        "subcategory": "Office Supplies"
+    },
+    {
+        "name": "First Incense",
+        "name_chinese": null,
+        "address": "753 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-391-8930",
+        "category": "Household Goods and Services",
+        "subcategory": "Office Supplies"
+    },
+    {
+        "name": "Golden Gate Buddhist Supplies",
+        "name_chinese": "\u91d1\u9580\u4f5b\u5177\u57ce",
+        "address": "49 Walter U, Lum Pl.",
+        "address_unit": null,
+        "phone_number": "415-982-4267",
+        "category": "Household Goods and Services",
+        "subcategory": "Office Supplies"
+    },
+    {
+        "name": "Sam Bo Trading Co.",
+        "name_chinese": null,
+        "address": "51 Ross Ln.",
+        "address_unit": null,
+        "phone_number": "415-398-3828",
+        "category": "Household Goods and Services",
+        "subcategory": "Office Supplies"
+    },
+    {
+        "name": "Art Dealers and Galleries",
+        "name_chinese": null,
+        "address": null,
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Household Goods and Services",
+        "subcategory": "Leisure"
+    },
+    {
+        "name": "Arts of China",
+        "name_chinese": null,
+        "address": "839, 843 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-981-1602",
+        "category": "Household Goods and Services",
+        "subcategory": "Leisure"
+    },
+    {
+        "name": "Di Wen Gallery",
+        "name_chinese": "\u8fea\u6587\u756b\u82d1",
+        "address": "923 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-793-6908",
+        "category": "Household Goods and Services",
+        "subcategory": "Leisure"
+    },
+    {
+        "name": "Stylers Art Gallery",
+        "name_chinese": "\u6642\u4ee3\u756b\u5eca",
+        "address": "661 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-788-8639",
+        "category": "Household Goods and Services",
+        "subcategory": "Leisure"
+    },
+    {
+        "name": "CCM Bookroom",
+        "name_chinese": "\u4e2d\u4fe1\u66f8\u5ba4\u66f8\u5e97",
+        "address": "14 Ross Ln.",
+        "address_unit": null,
+        "phone_number": "415-398-2398",
+        "category": "Household Goods and Services",
+        "subcategory": "Book Stores"
+    },
+    {
+        "name": "Eastwind Books & Arts, Inc.",
+        "name_chinese": "\u6771\u98a8\u66f8\u5c40",
+        "address": "1435 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-772-5888",
+        "category": "Household Goods and Services",
+        "subcategory": "Book Stores"
+    },
+    {
+        "name": "Louie Brothers Book Stone Inc.",
+        "name_chinese": "\u66a2\u76ca\u66f8\u5c40",
+        "address": "754 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-391-8866",
+        "category": "Household Goods and Services",
+        "subcategory": "Book Stores"
+    },
+    {
+        "name": "New China Bookstore",
+        "name_chinese": "\u65b0\u83ef\u66f8\u5e97\u9304\u5f71\u90e8",
+        "address": "642 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-956-0752",
+        "category": "Household Goods and Services",
+        "subcategory": "Book Stores"
+    },
+    {
+        "name": "Ng Hing Kee Inc.",
+        "name_chinese": "\u5433\u8208\u8a18",
+        "address": "648 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-781-8330",
+        "category": "Household Goods and Services",
+        "subcategory": "Book Stores"
+    },
+    {
+        "name": "World Books",
+        "name_chinese": "\u4e16\u754c\u66f8\u5c40",
+        "address": "824 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-397-8473",
+        "category": "Household Goods and Services",
+        "subcategory": "Book Stores"
+    },
+    {
+        "name": "Dai Chong Trading",
+        "name_chinese": null,
+        "address": "38A Wentworth Pl.",
+        "address_unit": null,
+        "phone_number": "415-362-9833",
+        "category": "Household Goods and Services",
+        "subcategory": "DVD, VCD, VCR, CDs"
+    },
+    {
+        "name": "Gift Entertainment",
+        "name_chinese": "\u65b0\u610f\u96fb\u5f71\u4e16\u754c",
+        "address": "724 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-773-1161",
+        "category": "Household Goods and Services",
+        "subcategory": "DVD, VCD, VCR, CDs"
+    },
+    {
+        "name": "Kinmei Trading Co.",
+        "name_chinese": "\u5805\u7f8e\u8cbf\u6613\u516c\u53f8",
+        "address": "1199 Stockton St.",
+        "address_unit": "#A3",
+        "phone_number": "415-362-6280",
+        "category": "Household Goods and Services",
+        "subcategory": "DVD, VCD, VCR, CDs"
+    },
+    {
+        "name": "New Tech Entertainment, Inc.",
+        "name_chinese": null,
+        "address": "675 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-291-9228",
+        "category": "Household Goods and Services",
+        "subcategory": "DVD, VCD, VCR, CDs"
+    },
+    {
+        "name": "Starsight Video Entertainment",
+        "name_chinese": "\u661f\u8f1d\u5a1b\u6a02\u5f71\u8996",
+        "address": "766 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-392-8088",
+        "category": "Household Goods and Services",
+        "subcategory": "DVD, VCD, VCR, CDs"
+    },
+    {
+        "name": "Sun Entertainment",
+        "name_chinese": null,
+        "address": "722 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-986-6787",
+        "category": "Household Goods and Services",
+        "subcategory": "DVD, VCD, VCR, CDs"
+    },
+    {
+        "name": "Update Entertainment",
+        "name_chinese": null,
+        "address": "952A Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-989-1551",
+        "category": "Household Goods and Services",
+        "subcategory": "DVD, VCD, VCR, CDs"
+    },
+    {
+        "name": "Clarion Music Center",
+        "name_chinese": null,
+        "address": "816 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-391-1317",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Travel Agencies",
+        "name_chinese": null,
+        "address": null,
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Wilson Travel Service",
+        "name_chinese": "\u83ef\u8208\u65c5\u904a",
+        "address": "715 Broadway",
+        "address_unit": null,
+        "phone_number": "415-392-3068",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Bay Area Tour",
+        "name_chinese": "\u7063\u5340\u65c5\u904a",
+        "address": "1199 Stockton St.",
+        "address_unit": "#C",
+        "phone_number": "415-956-3888",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Bay Area Tour Inc.",
+        "name_chinese": "\u7063\u5340\u65c5\u904a",
+        "address": "1341 Stockton St.",
+        "address_unit": "#L",
+        "phone_number": "415-362-8838",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Chinatown Ghost Tours",
+        "name_chinese": null,
+        "address": "731 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-793-183",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Classic Tour",
+        "name_chinese": "\u898b\u805e\u65c5\u904a",
+        "address": "816 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-391-8981",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Global Net Travel Co.",
+        "name_chinese": "\u570b\u969b\u65c5\u904a\u516c\u53f8",
+        "address": "739 Washington St.",
+        "address_unit": "#388",
+        "phone_number": "415-296-6388",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Golden Sun Tours",
+        "name_chinese": null,
+        "address": "849 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-986-8796",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "JC Travel Service Inter Nation Inc.",
+        "name_chinese": "\u842c\u901a\u570b\u969b\u65c5\u904a",
+        "address": "1056 Grant Ave.",
+        "address_unit": "#2",
+        "phone_number": "415-288-0368",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Ming's Travel, Inc.",
+        "name_chinese": "\u660e\u6a3a\u65c5\u904a",
+        "address": "112 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-421-4111",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "New Fortune Dim Sum",
+        "name_chinese": "\u5bcc\u7965\u9ede\u5fc3",
+        "address": "815 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-399-1688",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Pamesco International Travel",
+        "name_chinese": null,
+        "address": "1129 Stockton St.",
+        "address_unit": "#2",
+        "phone_number": "415-392-1913",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Slendid Holidays",
+        "name_chinese": "\u4eba\u4eba\u5047\u671f",
+        "address": "835 Clay St.",
+        "address_unit": "#208",
+        "phone_number": "415-788-2882",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Starlite Travel Service",
+        "name_chinese": null,
+        "address": "758 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-981-2350",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Sun East Travel",
+        "name_chinese": "\u9d3b\u904b\u65c5\u904a",
+        "address": "917 Grant Ave.",
+        "address_unit": "#5",
+        "phone_number": "415-393-4581",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Win On Travel",
+        "name_chinese": "\u6c38\u5b89\u65c5\u904a",
+        "address": "728 Pacific Ave.",
+        "address_unit": "#114",
+        "phone_number": "415-834-1628",
+        "category": "Household Goods and Services",
+        "subcategory": "Hobby Stores"
+    },
+    {
+        "name": "Asia Star Fantasy Inc.",
+        "name_chinese": "\u4e9e\u6d32\u661f",
+        "address": "1124 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-956-2090",
+        "category": "Household Goods and Services",
+        "subcategory": "Movie Rental"
+    },
+    {
+        "name": "Chinese BBQ/Meat Market",
+        "name_chinese": null,
+        "address": null,
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "China Dragon Trading",
+        "name_chinese": "\u83ef\u9686\u516c\u53f8",
+        "address": "714 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-391-2806",
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Duk Hing Chinese Deli and Meat",
+        "name_chinese": "\u5fb7\u8208\u71d2\u81d8\u8089\u98df\u516c\u53f8",
+        "address": "1151 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-951-8328",
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Golden Well",
+        "name_chinese": null,
+        "address": "918 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-391-1088",
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Gourmet Delight BBQ",
+        "name_chinese": "\u65b0\u51f1\u8c50\u71d2\u81d8\u719f\u9938",
+        "address": "1045 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-392-3288",
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Gourmet Kitchen",
+        "name_chinese": "\u5a01\u8a18\u7cd5\u9ede",
+        "address": "1051 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-781-7988",
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Guang Zhou King & King Sausage",
+        "name_chinese": "\u5ee3\u5dde\u7687\u4e0a\u7687\u81d8\u5473",
+        "address": "57 Walter U. Lum Pl.",
+        "address_unit": null,
+        "phone_number": "415-392-2682",
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Gum Wing Lee Liquor",
+        "name_chinese": "\u91d1\u83ef\u5229",
+        "address": "903 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-296-7680",
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Hang Seng Meat Market",
+        "name_chinese": "\u6052\u751f\u8089\u92ea",
+        "address": "834 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-362-0285",
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Long Kong Chicken",
+        "name_chinese": null,
+        "address": "1199 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-982-9228",
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Sweet Mart",
+        "name_chinese": "\u597d\u597d\u5473\u512a\u9591\u98df\u54c1\u5e97",
+        "address": "727 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-788-5555",
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Wycen Foods Inc.",
+        "name_chinese": null,
+        "address": "903 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-788-3910",
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Yummy BBQ Kitchen",
+        "name_chinese": "\u7687\u890c\u9d3b",
+        "address": "683 Broadway",
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Household Goods and Services",
+        "subcategory": "Grocery Stores and Markets"
+    },
+    {
+        "name": "Chung Chou City, Inc.",
+        "name_chinese": "\u87f2\u8349\u57ce\u53c3\u8338\u5e97",
+        "address": "1230 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-397-2288",
+        "category": "Household Goods and Services",
+        "subcategory": "Dried Foods"
+    },
+    {
+        "name": "Hang Fung Tai Corporation",
+        "name_chinese": "\u6052\u8c50\u6cf0",
+        "address": "1050 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-421-5257",
+        "category": "Household Goods and Services",
+        "subcategory": "Dried Foods"
+    },
+    {
+        "name": "Kang Hua Trading Inc.",
+        "name_chinese": "\u5eb7\u83ef\u53c3\u8338\u85e5\u6750\u884c",
+        "address": "1040 Stockton St.",
+        "address_unit": "#A",
+        "phone_number": "415-989-4817",
+        "category": "Household Goods and Services",
+        "subcategory": "Dried Foods"
+    },
+    {
+        "name": "Ming Lee Trading Inc.",
+        "name_chinese": "\u6c38\u660e\u98df\u54c1\u5e02\u5834",
+        "address": "761 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-217-0088",
+        "category": "Household Goods and Services",
+        "subcategory": "Dried Foods"
+    },
+    {
+        "name": "Pacific Ave. Seafood Trading Co.",
+        "name_chinese": "\u65b0\u540c\u767c\u9b5a\u7fc5\u6d77\u7522",
+        "address": "1143 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-989-8338",
+        "category": "Household Goods and Services",
+        "subcategory": "Dried Foods"
+    },
+    {
+        "name": "The Rims Import Export",
+        "name_chinese": null,
+        "address": "910 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-399-0122",
+        "category": "Household Goods and Services",
+        "subcategory": "Dried Foods"
+    },
+    {
+        "name": "Wang Chung Co.",
+        "name_chinese": "\u5f18\u4e2d\u516c\u53f8",
+        "address": "838 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-788-2212",
+        "category": "Household Goods and Services",
+        "subcategory": "Dried Foods"
+    },
+    {
+        "name": "Wing Lung Co.",
+        "name_chinese": null,
+        "address": "876 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-398-3860",
+        "category": "Household Goods and Services",
+        "subcategory": "Dried Foods"
+    },
+    {
+        "name": "Wing Scene Food Inc.",
+        "name_chinese": null,
+        "address": "898 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-837-1692",
+        "category": "Household Goods and Services",
+        "subcategory": "Dried Foods"
+    },
+    {
+        "name": "Yut Hing Food Co.",
+        "name_chinese": "\u65e5\u8208\u98df\u54c1\u516c\u53f8",
+        "address": "748 Broadway",
+        "address_unit": null,
+        "phone_number": "415-788-2129",
+        "category": "Household Goods and Services",
+        "subcategory": "Dried Foods"
+    },
+    {
+        "name": "Liang's Seafood Inc.",
+        "name_chinese": null,
+        "address": "1207 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-606-0100",
+        "category": "Household Goods and Services",
+        "subcategory": "Fish Markets"
+    },
+    {
+        "name": "Pacific Ave. Seafoodtrading Co.",
+        "name_chinese": "\u65b0\u540c\u767c\u9b5a\u7fc5\u6d77\u7522",
+        "address": "734 Vallejo St.",
+        "address_unit": null,
+        "phone_number": "415-989-8118",
+        "category": "Household Goods and Services",
+        "subcategory": "Fish Markets"
+    },
+    {
+        "name": "AAA Ginseng",
+        "name_chinese": null,
+        "address": "801 Kearny St.",
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Asia Herbs",
+        "name_chinese": "\u4e9e\u6d32\u53c3\u8338\u85e5\u6750",
+        "address": "1418 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-989-9268",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Big Star Grocery",
+        "name_chinese": null,
+        "address": "1415 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-986-8008",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Bou Shing Ginseng and Tea, Inc.",
+        "name_chinese": "\u5bf6\u76db\u53c3\u8338\u85e5\u516c\u53f8",
+        "address": "755 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-291-9766",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "DAAN Inc.",
+        "name_chinese": "\u5927\u5b89\u53c3\u85e5\u516c\u53f8",
+        "address": "614 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-433-3277",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Grand Century Enterprise, Inc.",
+        "name_chinese": "\u5927\u5143\u4eba\u8518\u516c\u53f8",
+        "address": "858 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-392-4060",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Great China Herb Co.",
+        "name_chinese": "\u5927\u8c50\u548c",
+        "address": "857 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-982-2195",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Great Wall Ginseng Herbal",
+        "name_chinese": "\u9577\u57ce\u53c3\u8338\u6d77\u5473\u85e5\u6750\u884c",
+        "address": "821 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-397-2040",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Health Food Center",
+        "name_chinese": "\u6b63\u8c50\u516c\u53f8",
+        "address": "1024, 1026 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-398-1698",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Hing Fung Trading",
+        "name_chinese": null,
+        "address": "717 Vallejo St.",
+        "address_unit": null,
+        "phone_number": "415-989-0937",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Hop Hing Ginseng Co.",
+        "name_chinese": "\u5408\u8208\u53c3\u8338\u85e5\u884c",
+        "address": "1027 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-986-7899",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Hue An Company Herbs and Ginseng",
+        "name_chinese": "\u60e0\u5b89\u53c3\u8338\u85e5\u884c",
+        "address": "776 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-362-1888",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Jing Ye Co.",
+        "name_chinese": "\u666f\u696d\u516c\u53f8",
+        "address": "1254 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-398-2068",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Kee Cheung Co. Herbs and Ginsneg",
+        "name_chinese": "\u797a\u660c\u85e5\u884c",
+        "address": "718 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-397-6888",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Nam Hai Corp",
+        "name_chinese": "\u5357\u6d77\u96c6\u5718\u53c3\u8338\u884c\u6709\u9650\u516c\u53f8",
+        "address": "919 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-397-3678",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "New Nature Herbal Line",
+        "name_chinese": "\u4f70\u8349\u5802",
+        "address": "1341 Stockton St.",
+        "address_unit": "#J",
+        "phone_number": "415-398-2208",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Sun Sang Tong",
+        "name_chinese": "\u65b0\u751f\u5802\u53c3\u8338\u85e5\u884c",
+        "address": "1344 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-362-7887",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Sun Sun Trading Co.",
+        "name_chinese": "\u65b0\u65b0\u53c3\u8338\u6d77\u5473\u884c",
+        "address": "1252 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-677-9881",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Sun Wah Trading Co.",
+        "name_chinese": "\u65b0\u83ef\u96c6\u5718\u6709\u9650\u516c\u53f8",
+        "address": "1211 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-788-7968",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Sun Wing Wo Trading Co. Inc.",
+        "name_chinese": "\u6c38\u548c\u53c3\u8338\u85e5\u6750\u884c",
+        "address": "1105 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-982-3716",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Superior Trading Company",
+        "name_chinese": "\u5bf6\u8b19\u660c",
+        "address": "837 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-982-8722",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Tai Sang Trading Co. Inc",
+        "name_chinese": "\u5927\u751f\u5802",
+        "address": "1018 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-981-5364",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Tian Shan Ginseng and Herb",
+        "name_chinese": "\u5929\u5c71\u53c3\u8338\u85e5\u884c",
+        "address": "1341 Stockton St.",
+        "address_unit": "#4",
+        "phone_number": "415-398-7876",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Traditional Chinese Medical and Traumatology",
+        "name_chinese": "\u4e2d\u91ab\u8dcc\u6253\u50b7\u79d1",
+        "address": "56 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-986-8320",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Tran's Trading Co.",
+        "name_chinese": "\u5929\u7965\u53c3\u8338\u85e5\u884c",
+        "address": "849 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-788-0110",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Tung Fong Trading Company: Herbs and Ginseng",
+        "name_chinese": "\u6771\u65b9\u53c3\u8338\u85e5\u884c",
+        "address": "101 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-296-7591",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Tung Shing Trading Co.",
+        "name_chinese": "\u6771\u6210\u85e5\u6750\u516c\u53f8",
+        "address": "734 Jackson St.",
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Wan Cheong Ginseng",
+        "name_chinese": "\u839e\u660c\u53c3\u8338\u884c",
+        "address": "1043 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-399-1155",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Wan Hua Co.",
+        "name_chinese": "\u842c\u83ef\u4e2d\u85e5\u884c",
+        "address": "665 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-398-5471",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Wing Hop Trading Co., Inc.",
+        "name_chinese": "\u6c38\u548c\u8518\u8338\u6750\u884c",
+        "address": "764 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-982-3716",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "World Ginseng Center Inc.",
+        "name_chinese": "\u4e16\u754c\u4eba\u53c3\u4e2d\u5fc3",
+        "address": "825 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-362-2255",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "XHT Company",
+        "name_chinese": "\u65b0\u9d3b\u6cf0\u7d14\u6b63\u82b1\u65d7\u53c3",
+        "address": "712 Vallejo St.",
+        "address_unit": null,
+        "phone_number": "415-398-2859",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Yau Hing Co.",
+        "name_chinese": null,
+        "address": "831 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-989-0620",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Yu Fong Co.",
+        "name_chinese": "\u88d5\u8c50\u53c3\u8338\u6d77\u5473",
+        "address": "32 Wentworth Pl.",
+        "address_unit": null,
+        "phone_number": "415-391-2138",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "Yu's Chinese Herbs Co.",
+        "name_chinese": "\u674e\u6d77\u658c\u4e2d\u91ab\u5e2b",
+        "address": "743 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-398-5129",
+        "category": "Household Goods and Services",
+        "subcategory": "Herbal Store"
+    },
+    {
+        "name": "JC Trading Company",
+        "name_chinese": "\u83ef\u8208\u516c\u53f8",
+        "address": "830 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-982-8424",
+        "category": "Household Goods and Services",
+        "subcategory": "Meat Market"
+    },
+    {
+        "name": "Ming Kee Game Birds Inc.",
+        "name_chinese": "\u660e\u8a18\u5bb6\u79bd",
+        "address": "1136 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-986-8410",
+        "category": "Household Goods and Services",
+        "subcategory": "Meat Market"
+    },
+    {
+        "name": "ABC Super Market Inc.",
+        "name_chinese": "\u5927\u4e00\u8d85\u7d1a\u5e02\u5834",
+        "address": "639, 641 Broadway",
+        "address_unit": null,
+        "phone_number": "415-398-3966",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Best Food Produce",
+        "name_chinese": "\u65b0\u9802\u597d",
+        "address": "1262 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-434-2553",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Chef Bowl Inc.",
+        "name_chinese": "\u5eda\u5bf6\u6279\u767c\u4e2d\u5fc3",
+        "address": "775 Vallejo St.",
+        "address_unit": null,
+        "phone_number": "415-398-3288",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Chung Hing Produce Co.",
+        "name_chinese": "\u7965\u8208\u5e02\u5834",
+        "address": "1300 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-693-9634",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "D&D Market",
+        "name_chinese": null,
+        "address": "881 Clay St;",
+        "address_unit": null,
+        "phone_number": "415-399-1817",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Golden Mountain Market",
+        "name_chinese": "\u91d1\u5c71\u5e02\u5834",
+        "address": "844 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-989-3929",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Gum Sing Market",
+        "name_chinese": "\u91d1\u6210\u5e73\u50f9\u5e02\u5834",
+        "address": "774 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-989-4836",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Kin Fat Produce",
+        "name_chinese": "\u5efa\u8f1d\u8fb2\u7522\u5e02\u5834",
+        "address": "628 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-392-9113",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Kin Sun Market",
+        "name_chinese": "\u5065\u65b0\u96dc\u8ca8",
+        "address": "1118 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-989-3731",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Kum Luen",
+        "name_chinese": "\u91d1\u9300",
+        "address": "1265 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-989-4668",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Liang's Food",
+        "name_chinese": "\u6881\u751f\u751f\u6d77\u7522",
+        "address": "1145 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-433-0403",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Lien Hing 2",
+        "name_chinese": null,
+        "address": "1401 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-397-2668",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Lien Hing Supermarket Inc.",
+        "name_chinese": "\u806f\u8208\u8d85\u7d1a\u5e02\u5834",
+        "address": "1108 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-986-0756",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Little Paradise Inc.",
+        "name_chinese": "\u591a\u6a02\u8da3",
+        "address": "1101 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-986-0756",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Mayerson Food Co. Inc.",
+        "name_chinese": null,
+        "address": "1011 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-398-4618",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Mayfung Market",
+        "name_chinese": "\u7f8e\u751f\u98df\u54c1\u516c\u53f8",
+        "address": "1101 Grant Ave.",
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Mei Fung Grocery",
+        "name_chinese": null,
+        "address": "1301 Mason St.",
+        "address_unit": null,
+        "phone_number": "415-346-6323",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Mow Lee Co.",
+        "name_chinese": "\u5927\u57e0\u91d1\u5c71\u5473\u81d8\u865f\u5229\u8302",
+        "address": "774 Commercial Pl.",
+        "address_unit": null,
+        "phone_number": "415-982-5767",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "New United Supermarket",
+        "name_chinese": "\u65b0\u806f\u83ef\u8d85\u7d1a\u5e02\u5834",
+        "address": "1117 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-986-0756",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Nissan Produce Market",
+        "name_chinese": null,
+        "address": "1055 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-982-8188",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Pang Kee Bargain Market",
+        "name_chinese": "\u5e73\u8a18\u5e73\u50f9\u5e02\u5834",
+        "address": "1308, 1310 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-982-1959",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Sam & Son Market",
+        "name_chinese": "\u65b0\u7d00\u5143\u516c\u53f8",
+        "address": "1321 Powell St. A",
+        "address_unit": "#A",
+        "phone_number": "415-399-1803",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Sheng Hing Market",
+        "name_chinese": null,
+        "address": "1107, 1109 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-591-7816",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Stockton St. Seafood Center, Inc.",
+        "name_chinese": "\u87f2\u8349\u57ce\u6d77\u5473\u5e97",
+        "address": "900, 902 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-397-2288",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Wah Hing Market",
+        "name_chinese": "\u83ef\u8208\u74dc\u83dc\u3001\u8089\u98df\u5e02\u5834",
+        "address": "1200 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-421-4745",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Wai Kan Produce Express Co.",
+        "name_chinese": "\u60e0\u5805\u8fb2\u7522\u516c\u53f8",
+        "address": "775 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-397-5527",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Wo Chong Company, Inc.",
+        "name_chinese": null,
+        "address": "41 Ross Ln.",
+        "address_unit": null,
+        "phone_number": "415-982-6137",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Won Kow Food Products",
+        "name_chinese": "\u74b0\u7403\u6d77\u5473\u98df\u54c1\u516c\u53f8",
+        "address": "814 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-788-8688",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Yue Fung Grocery",
+        "name_chinese": "\u88d5\u8c50\u4ec0\u8ca8",
+        "address": "1037 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-397-7282",
+        "category": "Household Goods and Services",
+        "subcategory": "Produce Markets"
+    },
+    {
+        "name": "Wayne's Liquor Store",
+        "name_chinese": "\u5049\u8a18\u9152\u5e84",
+        "address": "911 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-433-3317",
+        "category": "Household Goods and Services",
+        "subcategory": "Liquor Stores"
+    },
+    {
+        "name": "Hung Ming Pet Central",
+        "name_chinese": "\u96c4 \u660e \u4f01\u696d",
+        "address": "660 Broadway",
+        "address_unit": null,
+        "phone_number": "415-399-0164",
+        "category": "Household Goods and Services",
+        "subcategory": "Pet Store"
+    },
+    {
+        "name": "Spoon Tailor",
+        "name_chinese": null,
+        "address": null,
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Personal Services",
+        "subcategory": "Alterations"
+    },
+    {
+        "name": "Youme Fashion",
+        "name_chinese": null,
+        "address": "870 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-982-7931",
+        "category": "Personal Services",
+        "subcategory": "Alterations"
+    },
+    {
+        "name": "K.Y. Cleaners and Laundry",
+        "name_chinese": "\u4e7e\u6fd5\u6d17\u8863\u5e97",
+        "address": "708 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-989-8382",
+        "category": "Personal Services",
+        "subcategory": "Dry Cleaning"
+    },
+    {
+        "name": "A & A Hair Design",
+        "name_chinese": "\u6f22\u85dd\u9aee\u820d",
+        "address": "835 Broadway",
+        "address_unit": null,
+        "phone_number": "415-989-8285",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "An An Hair Salon",
+        "name_chinese": "\u5b89\u5b89\u9aee\u5eca",
+        "address": "833 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-398-8708",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Annie Hair Styling Salon",
+        "name_chinese": "\u6d77\u97fb\u9aee\u578b\u8a2d\u8a08",
+        "address": "61 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-398-6488",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Chong, S Beauty Barber Shop",
+        "name_chinese": "\u4e00\u65b0\u9aee\u5c4b",
+        "address": "1335 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-956-6878",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Choy Won Beauty Salon",
+        "name_chinese": "\u5f69\u96f2\u9aee\u5c4b",
+        "address": "160 Waverly Pl.",
+        "address_unit": "#201",
+        "phone_number": "415-397-6226",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Cutting Edge",
+        "name_chinese": "\u6c99\u5229\u9aee\u5e97",
+        "address": "1321 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-391-6853",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Deanna's Hair Salon",
+        "name_chinese": "\u65b0\u6642\u4ee3\u7f8e\u5bb9\u7f8e\u9aee\u4e2d\u5fc3",
+        "address": "30 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-816-6999",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Dick Troy Hair Salon",
+        "name_chinese": null,
+        "address": "6 Old Chinatown Ln.",
+        "address_unit": null,
+        "phone_number": "415-392-1997",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Elaine's Beauty Salon",
+        "name_chinese": "\u540d\u9aee\u5eca",
+        "address": "116 Waverly Pl.",
+        "address_unit": "#A",
+        "phone_number": "415-399-1618",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Fall's Leaves Beauty",
+        "name_chinese": "\u79cb\u306e\u8449",
+        "address": "638 Broadway",
+        "address_unit": null,
+        "phone_number": "415-274-0991",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Golia Beauty Center",
+        "name_chinese": null,
+        "address": "737A Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-577-8776",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "H. K. Anne Hair & Beauty Salon",
+        "name_chinese": "\u5b89 \u59ae \u9aee \u5eca",
+        "address": "746 Broadway",
+        "address_unit": null,
+        "phone_number": "415-680-8750",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Hair & Hair",
+        "name_chinese": "\u701f\u6d12",
+        "address": "1241 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-392-1648",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Jenny Hair Studio",
+        "name_chinese": "\u8d85\u7136\u9aee\u578b\u5c4b",
+        "address": "1117 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-982-2833",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Johnny's Hair 7 Beauty Center",
+        "name_chinese": "\u8499\u59ae\u5766",
+        "address": "8 Spofford Alley",
+        "address_unit": null,
+        "phone_number": "415-398-6808",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Joy's Number 2 Hair Salon",
+        "name_chinese": "\u5f69\u8a69\u9aee\u5eca",
+        "address": "1016 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-296-1062",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Karen Salon",
+        "name_chinese": "\u6d77\u7433\u9aee\u5eca",
+        "address": "917 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-362-6896",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Ken's Hair Design",
+        "name_chinese": "\u52c1\u9aee\u5eca",
+        "address": "878 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-362-1570",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Lana Beauty Salon",
+        "name_chinese": "\u9e97 \u5a1c \u9aee\u5eca",
+        "address": "784 Broadway",
+        "address_unit": null,
+        "phone_number": "415-986-5172",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Lily Salon",
+        "name_chinese": null,
+        "address": "153 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-398-2166",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Ling Ling Hair Salon",
+        "name_chinese": "\u73b2\u73b2\u9af2",
+        "address": "807 Broadway",
+        "address_unit": null,
+        "phone_number": "415-775-9789",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Mark's Beauty Salon",
+        "name_chinese": "\u96d9\u559c\u9aee\u5eca",
+        "address": "750 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-986-8269",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "May Sun Professional Beauty Salon Inc.",
+        "name_chinese": "\u7f8e\u65b0\u9aee\u5eca",
+        "address": "737 Grant Ave.",
+        "address_unit": "#B2",
+        "phone_number": "415-296-9838",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Ming's Hair Studio",
+        "name_chinese": "\u9aee\u526a\u5730",
+        "address": "824 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-398-6368",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Mona Lisa Hair Design",
+        "name_chinese": "\u8499\u5a1c\u9e97\u6c99",
+        "address": "638 Broadway",
+        "address_unit": null,
+        "phone_number": "415-773-1038",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "New Image Hairstyling",
+        "name_chinese": "\u65b0\u5f62\u50cf\u9aee\u5eca",
+        "address": "1412 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-397-1688",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Next Station Hair Design",
+        "name_chinese": "\u4e0b\u4e00\u7ad9",
+        "address": "728 Pacific Ave.",
+        "address_unit": "#113",
+        "phone_number": "415-986-7788",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Ping's Salon",
+        "name_chinese": "\u9e97\u840d\u7f8e\u9aee\u9662",
+        "address": "758 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-391-0203",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Press Hair Salon",
+        "name_chinese": null,
+        "address": "945 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-398-1888",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Rever Hairstyling",
+        "name_chinese": "\u9e97\u82b1\u9aee\u578b\u8a2d\u8a08",
+        "address": "843 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-981-0418",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "S&J Hair Salon",
+        "name_chinese": "\u5fc3\u5fc3\u9aee\u5eca",
+        "address": null,
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "S&P Fashion Design Hair Studio",
+        "name_chinese": "\u7d93\u5178\u9aee\u5c4b",
+        "address": "905 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-982-1628",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "S.A. Beauty Salon",
+        "name_chinese": "\u96c5\u7fa4\u9aee\u5eca",
+        "address": "770 Sacramento St.",
+        "address_unit": "#A",
+        "phone_number": "415-397-3818",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Sakura Hair Design",
+        "name_chinese": "\u6afb\u82b1\u9aee\u578b\u8a2d\u8a08",
+        "address": "855 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-989-2888",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Salon Republic",
+        "name_chinese": null,
+        "address": "899 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-391-2828",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Si Mei Hair Salon",
+        "name_chinese": "\u601d\u7f8e\u9aee\u5c4b",
+        "address": "1417 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-986-8988",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Tandeline Hair Salon",
+        "name_chinese": "\u9aee\u540d\u4e00\u6d3e",
+        "address": "1465 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-956-2799",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Top Look Hair Design",
+        "name_chinese": "\u9ad8\u96c5\u9aee\u5eca",
+        "address": "827 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-788-8818",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Vesuvio",
+        "name_chinese": null,
+        "address": "255 Columbus Ave.",
+        "address_unit": null,
+        "phone_number": "415-362-3370",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "X-Press Hair Salon",
+        "name_chinese": "\u6953\u6797\u9aee\u5eca",
+        "address": "945 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-398-1888",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Yeeda's Hair Salon",
+        "name_chinese": "\u7dba\u9054\u9aee\u5eca",
+        "address": "868 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-982-7611",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Yong Chang Hair Design",
+        "name_chinese": "\u8a60\u5ae6\u9aee\u578b",
+        "address": "942 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-693-9282",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Yun Cai Salon",
+        "name_chinese": "\u96f2\u5f69\u9aee\u5eca",
+        "address": "637 Vallejo St.",
+        "address_unit": null,
+        "phone_number": "415-391-0799",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Zhen Mei Hair Salon",
+        "name_chinese": "\u7504\u7f8e\u9aee\u5eca",
+        "address": "749 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-398-5562",
+        "category": "Personal Services",
+        "subcategory": "Hair Salons"
+    },
+    {
+        "name": "Good Steps Shoe Service",
+        "name_chinese": null,
+        "address": "692 Commercial Pl.",
+        "address_unit": null,
+        "phone_number": "415-788-2668",
+        "category": "Personal Services",
+        "subcategory": "Shoe Repair"
+    },
+    {
+        "name": "Han's Carving Co.",
+        "name_chinese": null,
+        "address": "754 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-982-4731",
+        "category": "Personal Services",
+        "subcategory": "Stamp Carving"
+    },
+    {
+        "name": "Bookkeeping and Taxes Tony Lee",
+        "name_chinese": "\u674e\u570b\u9806\u7a05\u52d9\u6703\u8a08\u5e2b",
+        "address": "749 Clay St.",
+        "address_unit": "#A",
+        "phone_number": "415-981-6868",
+        "category": "Professional Goods and Services",
+        "subcategory": "Accounting"
+    },
+    {
+        "name": "Da Zhong Services",
+        "name_chinese": "\u5927\u773e\u670d\u52d9\u793e\u6709\u9650\u516c\u53f8",
+        "address": "917 Grant Ave.",
+        "address_unit": "#2",
+        "phone_number": "415-362-4471",
+        "category": "Professional Goods and Services",
+        "subcategory": "Accounting"
+    },
+    {
+        "name": "G&G Tax Services",
+        "name_chinese": "\u5229\u6c11\u7a05\u52d9\u4e2d\u5fc3",
+        "address": "1341 Stockton St.",
+        "address_unit": "#K",
+        "phone_number": "415-788-3288",
+        "category": "Professional Goods and Services",
+        "subcategory": "Accounting"
+    },
+    {
+        "name": "Kenneth K Louie C.P.A.",
+        "name_chinese": "\u52a0\u7701\u516c\u8b49\u6703\u8a08\u5e2b\u96f7\u6c72\u6fe4",
+        "address": "950 Stockton St.",
+        "address_unit": "#404",
+        "phone_number": "415-788-0846",
+        "category": "Professional Goods and Services",
+        "subcategory": "Accounting"
+    },
+    {
+        "name": "M & L Service (Notary)",
+        "name_chinese": "\u6881\u7f8e\u6f54\u4e8b\u52d9\u6240",
+        "address": "917 Grant Ave.",
+        "address_unit": "#1",
+        "phone_number": null,
+        "category": "Professional Goods and Services",
+        "subcategory": "Accounting"
+    },
+    {
+        "name": "Philip K. Go CPA",
+        "name_chinese": "\u5433\u666f\u4eae\u6703\u8a08\u5e2b",
+        "address": "835 Clay St.",
+        "address_unit": "#202",
+        "phone_number": "415-362-0470",
+        "category": "Professional Goods and Services",
+        "subcategory": "Accounting"
+    },
+    {
+        "name": "Richard W. Wong, CPA",
+        "name_chinese": null,
+        "address": "736 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-781-1040",
+        "category": "Professional Goods and Services",
+        "subcategory": "Accounting"
+    },
+    {
+        "name": "Vincent M. Chinn, CPA Inc.",
+        "name_chinese": null,
+        "address": "849 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-986-5055",
+        "category": "Professional Goods and Services",
+        "subcategory": "Accounting"
+    },
+    {
+        "name": "First Republic Bank",
+        "name_chinese": "\u7b2c\u4e00\u4fe1\u8a17\u9280\u884c",
+        "address": "1088 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-834-0888",
+        "category": "Professional Goods and Services",
+        "subcategory": "Banks"
+    },
+    {
+        "name": "United Commercial Bank",
+        "name_chinese": "\u806f\u5408\u9650\u884c",
+        "address": "900 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-397-8988",
+        "category": "Professional Goods and Services",
+        "subcategory": "Banks"
+    },
+    {
+        "name": "United Commercial Bank",
+        "name_chinese": null,
+        "address": "743 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-421-5215",
+        "category": "Professional Goods and Services",
+        "subcategory": "Banks"
+    },
+    {
+        "name": "Flags International Services",
+        "name_chinese": null,
+        "address": "805 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-981-2188",
+        "category": "Professional Goods and Services",
+        "subcategory": "Flag Manufacturing"
+    },
+    {
+        "name": "Krystal Gift Shop",
+        "name_chinese": "\u6676\u7469\u79ae\u54c1\u5e97",
+        "address": "729 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-986-8888",
+        "category": "Professional Goods and Services",
+        "subcategory": "Florists"
+    },
+    {
+        "name": "New Lai Wah Florist",
+        "name_chinese": "\u65b0\u9e97\u83ef\u82b1\u8216",
+        "address": "741 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-986-0637",
+        "category": "Professional Goods and Services",
+        "subcategory": "Florists"
+    },
+    {
+        "name": "Golden Hill Monument",
+        "name_chinese": "\u91d1\u5c71\u83ef\u4eba\u77f3\u7891\u516c\u53f8",
+        "address": "130 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-982-2923",
+        "category": "Professional Goods and Services",
+        "subcategory": "Funeral Services"
+    },
+    {
+        "name": "China Central Service",
+        "name_chinese": "\u4e2d\u83ef\u670d\u52d9\u4e2d\u5fc3",
+        "address": "1235 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-982-8318",
+        "category": "Professional Goods and Services",
+        "subcategory": "Immigration Services"
+    },
+    {
+        "name": "Kum Sun Int'l Chinese Affairs",
+        "name_chinese": "\u91d1\u5c71\u83ef\u4eba\u670d\u52d9\u793e",
+        "address": "676 Broadway",
+        "address_unit": null,
+        "phone_number": "415-956-5251",
+        "category": "Professional Goods and Services",
+        "subcategory": "Immigration Services"
+    },
+    {
+        "name": "State Farm",
+        "name_chinese": null,
+        "address": "756 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-956-4888",
+        "category": "Professional Goods and Services",
+        "subcategory": "Insurance Agencies"
+    },
+    {
+        "name": "J.J. Tang LLC",
+        "name_chinese": null,
+        "address": "848 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-788-8823",
+        "category": "Professional Goods and Services",
+        "subcategory": "Insurance Agencies"
+    },
+    {
+        "name": "Chinese Bay Services",
+        "name_chinese": "\u5317\u7f8e\u83ef\u4eba\u670d\u52d9\u4e2d\u5fc3",
+        "address": "1339,1341 Stockton St.",
+        "address_unit": "#A",
+        "phone_number": "415-362-8866",
+        "category": "Professional Goods and Services",
+        "subcategory": "Lawyer Offices"
+    },
+    {
+        "name": "Law Offices of Brian and Manuel",
+        "name_chinese": null,
+        "address": "1412 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-956-9268",
+        "category": "Professional Goods and Services",
+        "subcategory": "Lawyer Offices"
+    },
+    {
+        "name": "A-1 Restaurant",
+        "name_chinese": "\u83ef\u8a18\u5c0f\u9928",
+        "address": "779 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-398-7918",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "AA Bakery & Caf\u00e9",
+        "name_chinese": "\u6c38\u8208\u9905\u5bb6\u8336\u9910\u5ef3",
+        "address": "1068 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-981-0123",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "ABC Bakery Caf\u00e9",
+        "name_chinese": "\u83ef\u57e0ABC\u9910\u5ef3\u9905\u5bb6",
+        "address": "650 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-981-0803",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Anna Bakery",
+        "name_chinese": "\u5b89\u5a1c\u95a3",
+        "address": "715 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-989-8898",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Blossom Bakery Caf\u00e9",
+        "name_chinese": "\u5e78\u798f\u9905\u5bb6",
+        "address": "133 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-391-8088",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Brandy Ho's Hunan Food",
+        "name_chinese": "\u4f55\u5bb6\u6e56\u5357\u83dc",
+        "address": "217 Columbus Ave.",
+        "address_unit": null,
+        "phone_number": "415-788-7527",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Broadway Caf\u00e9",
+        "name_chinese": "\u5927\u57e0\u8336\u9910\u5ef3",
+        "address": "670 Broadway",
+        "address_unit": null,
+        "phone_number": "415-788-2822",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Bubble House",
+        "name_chinese": "\u6ce2\u6ce2\u5c4b",
+        "address": "1138 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-296-1168",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Bund Shanghai Restaurant",
+        "name_chinese": "\u4e0a\u6d77\u98ef\u5e97",
+        "address": "640 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-982-0618",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Caf\u00e9 Honolulu",
+        "name_chinese": "\u6a80\u5cf6\u5496\u5561\u9905\u5e97",
+        "address": "888 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-982-6688",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Capital Restaurant",
+        "name_chinese": "\u4eac\u90fd\u9910\u9928",
+        "address": "839 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-397-6269",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Capitol KimTar Restaurant",
+        "name_chinese": "\u91d1\u5854",
+        "address": "758 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-956-8533",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Chef Hung's Restaurant",
+        "name_chinese": "\u8208\u9d3b\u9910\u9928",
+        "address": "823 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-398-6883",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Chinatown Restaurant",
+        "name_chinese": "\u65b0\u674f\u9999",
+        "address": "744 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-392-7958",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Chung King Restaurant",
+        "name_chinese": "\u6c5f\u5357\u6d77\u9bae\u5e97",
+        "address": "606 Jackson St",
+        "address_unit": null,
+        "phone_number": "415-986-3899",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "City View Restaurant",
+        "name_chinese": "\u666f\u57ce",
+        "address": "662 Commercial Pl.",
+        "address_unit": null,
+        "phone_number": "415-398-2838",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Enjoy Vegetarian Restaurant",
+        "name_chinese": null,
+        "address": "839 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-956-7868",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Far East Caf\u00e9",
+        "name_chinese": "\u5eb7\u5e74\u6d77\u9bae\u9152\u5bb6",
+        "address": "631 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-982-3245",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Fortune Star Caf\u00e9 and Dim Sum",
+        "name_chinese": "\u597d\u5feb\u6d3b",
+        "address": "930 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-399-1883",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Four Seas Restaurant",
+        "name_chinese": "\u56db\u6d77\u9152\u5bb6",
+        "address": "731 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-989-8188",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Garden Bakery",
+        "name_chinese": "\u559c\u9813\u9905\u5bb6",
+        "address": "765 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-397-5838",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Gold Coin Trading Company",
+        "name_chinese": "\u7389\u904b\u5b56\u7d50",
+        "address": "874 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-433-1886",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Gold Mountain Restaurant",
+        "name_chinese": "\u91d1\u5c71\u9152\u6a13",
+        "address": "644 Broadway",
+        "address_unit": null,
+        "phone_number": "415-296-7733",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Golden City Restaurant",
+        "name_chinese": "\u91d1\u7687\u8d8a\u5357\u9910\u5ef3",
+        "address": "757 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-217-6888",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Golden Flower Vietnamese Restaurant",
+        "name_chinese": "\u91d1\u82b1\u9910\u9928",
+        "address": "667 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-433-6469",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Golden Star Vietnamese Restaurant",
+        "name_chinese": "\u91d1\u661f\u8d8a\u5357\u9910\u5ef3",
+        "address": "11 Walter U. Lum Pl.",
+        "address_unit": null,
+        "phone_number": "415-398-1215",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Good Luck Deli",
+        "name_chinese": "xx",
+        "address": "621 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-781-2328",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Good Mong Kok Bakery",
+        "name_chinese": "\u597d\u65fa\u89d2",
+        "address": "1039 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-397-2688",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Grant Palace Restaurant",
+        "name_chinese": "\u842c\u58fd\u5b98\u7f8e\u98df",
+        "address": "737 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-434-4998",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Great Eastern Restaurant",
+        "name_chinese": "\u8fce\u8cd3\u95a3",
+        "address": "649 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-986-2500",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Great Oriental Chinese Restaurant",
+        "name_chinese": "\u5927\u83ef\u95a3",
+        "address": "848 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-398-3691",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Happy Chinese Restaurant",
+        "name_chinese": "\u6a02\u9676\u82d1",
+        "address": "1326 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-398-1118",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Hing Lung Restaurant",
+        "name_chinese": "\u8208\u9686\u5c0f\u9928",
+        "address": "674 Broadway",
+        "address_unit": null,
+        "phone_number": "415-398-8893",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Hong Kong Clay St. Pot City Restaurant",
+        "name_chinese": "\u91d1\u5802\u95a3\u96f2\u541e\u706b\u934b\u6d77\u9bae\u9928",
+        "address": "960 Grant Ave.",
+        "address_unit": "#2",
+        "phone_number": "415-989-2638",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Hong Kong Menu",
+        "name_chinese": "\u65fa\u89d2\u5049\u8a18",
+        "address": "667, 669 Commercial Pl.",
+        "address_unit": null,
+        "phone_number": "415-391-3677",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Hon's Won Tun House",
+        "name_chinese": "\u6d2a\u8a18\u9eb5\u5bb6",
+        "address": "648 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-433-3966",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "House Of Dim Sum (Closed Tuesday)",
+        "name_chinese": "\u5712\u6797\u9ede\u5fc3",
+        "address": "735 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-399-0888",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Hunan Home's Restaurant",
+        "name_chinese": "\u6e56\u5357\u53c8\u4e00\u6751",
+        "address": "622 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-982-2844",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Imperial Palace Restaurant",
+        "name_chinese": "\u7687\u5b98\u9152\u6a13",
+        "address": "816 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-956-9888",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Jou Hing BBQ Noodle House",
+        "name_chinese": "\u518d\u8207\u9ec3\u6bdb\u96de\u7c89",
+        "address": "943 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-392-3288",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Kam Lok Restaurant",
+        "name_chinese": "\u91d1\u6a02\u6d77\u9bae\u9910\u9928",
+        "address": "834 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-421-8102",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Kay Cheung Seafood Restaurant",
+        "name_chinese": "\u5947\u660c\u6a13",
+        "address": "615 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-989-1551",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Kim Po (H.K.) Kitchen",
+        "name_chinese": "\u9999\u6e2f\u65b0\u5bf6\u71d2\u814a\u5c0f\u98df",
+        "address": "801 Broadway",
+        "address_unit": null,
+        "phone_number": "415-982-3516",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Lichee Garden",
+        "name_chinese": "\u8354\u9999\u6751",
+        "address": "1416 Powell St.",
+        "address_unit": null,
+        "phone_number": "415-397-2290",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Little Garden",
+        "name_chinese": "\u5ead\u82d1\u6e2f\u5f0f\u8336\u9910\u5ef3",
+        "address": "750 Vallejo St.",
+        "address_unit": null,
+        "phone_number": "415-399-0368",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Louie's California Chinese Cuisine",
+        "name_chinese": "\u946b\u9d3b\u9152\u5bb6",
+        "address": "646 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-982-3309",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Louie's Dim Sum",
+        "name_chinese": "\u65b0\u5229\u5712\u9ede\u5fc3",
+        "address": "1242 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-989-8380",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Loving Hut",
+        "name_chinese": null,
+        "address": "1365 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-788-7071",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Lucky Creation Vegetarian Restaurant",
+        "name_chinese": "\u5982\u610f\u9f4b\u7d20\u83dc\u9928",
+        "address": "854 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-989-0818",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Maggie's Caf\u00e9",
+        "name_chinese": null,
+        "address": "848 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-986-6668",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Mee Mee Bakery",
+        "name_chinese": "\u7f8e\u7f8e",
+        "address": "1328 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-362-3204",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Napoleon Super Bakery Co. Ltd.",
+        "name_chinese": "\u62ff\u7834\u4f96",
+        "address": "1049 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-951-8133",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "New Asia Chinese Restaurant",
+        "name_chinese": "\u65b0\u4e9e\u6d32\u5927\u9152\u6a13",
+        "address": "772 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-391-6666",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "New Golden Daisy",
+        "name_chinese": "\u6c38\u8c50\u71d2\u81d8",
+        "address": "1041 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-392-0111",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "New Hollywood Bakery and Restaurant",
+        "name_chinese": "\u8377\u91cc\u6d3b\u8336\u9910\u5ef3",
+        "address": "652 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-397-9919",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "New King Tin Restaurant",
+        "name_chinese": "\u64ce\u5929\u9152\u6a13",
+        "address": "826 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-982-8228",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "New Lun Ting Caf\u00e9",
+        "name_chinese": "\u65b0\u862d\u4ead\u5feb\u9910",
+        "address": "670 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-362-5667",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "New Regent Caf\u00e9",
+        "name_chinese": "\u65b0\u9e97\u6676\u9910\u5ef3",
+        "address": "638 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-392-6688",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "New Sun Hong Kong Restaurant",
+        "name_chinese": "\u65b0\u9999\u6e2f",
+        "address": "606 Broadway",
+        "address_unit": null,
+        "phone_number": "415-956-3338",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "New Woey Loy Goey Restaurant",
+        "name_chinese": "\u65b0\u540c\u6a02\u98ef\u5e97",
+        "address": "699 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-399-0733",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Ocean Pearl Restaurant",
+        "name_chinese": "\u5229\u8c50\u6d77\u9bae\u5bb6\u9152",
+        "address": "781 Broadway",
+        "address_unit": null,
+        "phone_number": "415-397-5799",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Oriental Pearl restaurant",
+        "name_chinese": "\u660e\u73e0\u9152\u6a13",
+        "address": "760, 778 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-433-1817",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Pacific Court Caf\u00e9",
+        "name_chinese": "\u65b0\u6797\u82d1\u9910\u5ef3",
+        "address": "728 Pacific Ave.",
+        "address_unit": "#118",
+        "phone_number": "415-781-8312",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Pearl City",
+        "name_chinese": "\u65b0\u73e0\u57ce\u6d77\u9bae\u9152\u6a13",
+        "address": "641 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-398-8383",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Penang Garden Restaurant",
+        "name_chinese": "\u6ab3\u57ce\u7f8e\u98df\u90a8",
+        "address": "728 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-296-7878",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Pho Vung Tau Restaurant",
+        "name_chinese": "\u982d\u9813\u8d8a\u5357\u7c89",
+        "address": "708 Vallejo St.",
+        "address_unit": null,
+        "phone_number": "415-677-4171",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "R& G Lounge",
+        "name_chinese": "\u5dba\u5357\u5c0f\u9928",
+        "address": "631 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-982-7877",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Sam Wo Restaurant",
+        "name_chinese": "\u4e09\u548c",
+        "address": "813 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-982-0596",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "San Sun Restaurant",
+        "name_chinese": "\u4e09\u967d\u9910\u5ba4",
+        "address": "941 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-296-8228",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Sweetheart Caf\u00e9",
+        "name_chinese": "\u5fc3\u610f\u751c\u54c1",
+        "address": "909 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-362-9888",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "The Garden Restaurant",
+        "name_chinese": "\u82b1\u5712\u98ef\u5e97",
+        "address": "716 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-956-2480",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Ton Yong Thai Caf\u00e9",
+        "name_chinese": null,
+        "address": "901 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-982-0471",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Uncle's Restaurant",
+        "name_chinese": "\u9daf\u5495\u9910\u9928",
+        "address": "65 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-982-1954",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Utopia Cafe",
+        "name_chinese": "\u8518\u6eff\u610f\u7ca5",
+        "address": "139 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-956-2902",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "V.I.P Coffee& Cake Shop",
+        "name_chinese": "\u5609\u8cd3\u95a3\u5496\u5561\u9905\u5e97",
+        "address": "671 Broadway",
+        "address_unit": null,
+        "phone_number": "415-989-7118",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Vietnam Restaurant",
+        "name_chinese": "\u8d8a\u5357\u98ef\u9928",
+        "address": "620 Broadway",
+        "address_unit": null,
+        "phone_number": "415-788-7034",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Washington St. Bakery & Restaurant",
+        "name_chinese": "\u83ef\u76db\u9813\u8336\u9910\u5ef3",
+        "address": "733 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-397-3232",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Y.Ben House",
+        "name_chinese": "\u6703\u8cd3\u6a13",
+        "address": "835 Pacific Ave.",
+        "address_unit": null,
+        "phone_number": "415-397-3168",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Yan's Kitchen",
+        "name_chinese": "\u6e56\u5357\u5c0f\u9928",
+        "address": "57 Columbus Ave.",
+        "address_unit": null,
+        "phone_number": "415-989-8820",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Young's Cafe",
+        "name_chinese": "\u5bf6\u99ac",
+        "address": "601 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-397-3455",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "You's Dim Sum",
+        "name_chinese": "\u5f97\u610f\u7cd5\u9ede",
+        "address": "675 Broadway",
+        "address_unit": null,
+        "phone_number": "415-788-7028",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "You's Dim Sum",
+        "name_chinese": "\u5f97\u610f\u7cd5\u9ede",
+        "address": "937 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-788-7028",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Yuet Lee Restaurant Inc",
+        "name_chinese": "\u6085\u5229\u6d77\u9bae\u9152\u5bb6",
+        "address": "1300 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-982-6020",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Yummy Bakery and Cafe",
+        "name_chinese": null,
+        "address": "607 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-989-8388",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Z&Y Restaurant",
+        "name_chinese": "\u5fa1\u98df\u5712",
+        "address": "655 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-981-8988",
+        "category": "Restaurants",
+        "subcategory": null
+    },
+    {
+        "name": "Aroma Tea Shop",
+        "name_chinese": "\u8317\u8336\u8ed2",
+        "address": "845 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-362-6588",
+        "category": "Restaurants",
+        "subcategory": "Tea Tasting"
+    },
+    {
+        "name": "Natural Tea Shop",
+        "name_chinese": null,
+        "address": "1199 Stockton St.",
+        "address_unit": "#D",
+        "phone_number": "415-982-8989",
+        "category": "Restaurants",
+        "subcategory": "Tea Tasting"
+    },
+    {
+        "name": "Vital Tea Leaf",
+        "name_chinese": "\u4ed9\u8449\u8c37",
+        "address": "1044 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-981-2388",
+        "category": "Restaurants",
+        "subcategory": "Tea Tasting"
+    },
+    {
+        "name": "D&G Mobile",
+        "name_chinese": "\u5927\u6771\u96fb\u8a0a",
+        "address": "1021 Grant Ave.",
+        "address_unit": "#4",
+        "phone_number": "415-989-0288",
+        "category": "Technology",
+        "subcategory": "Cellphones"
+    },
+    {
+        "name": "D&G Mobile",
+        "name_chinese": "\u5927\u6771\u96fb\u8a0a",
+        "address": "1157 Grant Ave.",
+        "address_unit": null,
+        "phone_number": "415-986-3188",
+        "category": "Technology",
+        "subcategory": "Cellphones"
+    },
+    {
+        "name": "Impact Communications",
+        "name_chinese": "\u4eba\u4eba\u50b3\u8a0a",
+        "address": "651 Kearny St.",
+        "address_unit": null,
+        "phone_number": "415-392-8688",
+        "category": "Technology",
+        "subcategory": "Cellphones"
+    },
+    {
+        "name": "Infinitel (Verizon)",
+        "name_chinese": "\u96fb\u8a0a\u901a",
+        "address": "648 Jackson St.",
+        "address_unit": null,
+        "phone_number": "415-788-1688",
+        "category": "Technology",
+        "subcategory": "Cellphones"
+    },
+    {
+        "name": "Orange Digital Land",
+        "name_chinese": null,
+        "address": "752 Vallejo St.",
+        "address_unit": null,
+        "phone_number": "415-398-9938",
+        "category": "Technology",
+        "subcategory": "Cellphones"
+    },
+    {
+        "name": "Go Apple Go",
+        "name_chinese": null,
+        "address": null,
+        "address_unit": null,
+        "phone_number": null,
+        "category": "Technology",
+        "subcategory": "Cellphones"
+    },
+    {
+        "name": "Wong's TV, Radio Service",
+        "name_chinese": "\u5bf6\u5149\u96fb\u54ed\u5531\u7247\u516c\u53f8",
+        "address": "59 Waverly Pl.",
+        "address_unit": null,
+        "phone_number": "415-781-0535",
+        "category": "Technology",
+        "subcategory": "Electronics Repair"
+    },
+    {
+        "name": "Blue Digital World",
+        "name_chinese": "\u6d41\u52d5\u4e16\u754c",
+        "address": "863 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-398-3378",
+        "category": "Technology",
+        "subcategory": "Photography"
+    },
+    {
+        "name": "Jason Studio",
+        "name_chinese": "\u771f\u5584\u7f8e\u5f71\u6a13",
+        "address": "1317 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-362-2620",
+        "category": "Technology",
+        "subcategory": "Photography"
+    },
+    {
+        "name": "John's Photo and Translation",
+        "name_chinese": "\u9673\u8208\u4e8b\u52d9\u6240",
+        "address": "752 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-986-1829",
+        "category": "Technology",
+        "subcategory": "Photography"
+    },
+    {
+        "name": "Rainbow Express",
+        "name_chinese": "\u5f69\u8679",
+        "address": "800 Stockton St.",
+        "address_unit": null,
+        "phone_number": "415-781-7212",
+        "category": "Technology",
+        "subcategory": "Photography"
+    },
+    {
+        "name": "Better Choice Printing & Copying Inc",
+        "name_chinese": null,
+        "address": "654 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-398-8060",
+        "category": "Technology",
+        "subcategory": "Printing"
+    },
+    {
+        "name": "Duxwell Printing Inc.",
+        "name_chinese": "\u5fb7\u548c\u5370\u52d9\u6709\u9650\u516c\u53f8",
+        "address": "37 Wentworth Pl.",
+        "address_unit": null,
+        "phone_number": "415-986-3888",
+        "category": "Technology",
+        "subcategory": "Printing"
+    },
+    {
+        "name": "H2 Cards",
+        "name_chinese": null,
+        "address": "638 Washington St.",
+        "address_unit": null,
+        "phone_number": "415-362-6688",
+        "category": "Technology",
+        "subcategory": "Printing"
+    },
+    {
+        "name": "Ho Tai Printing",
+        "name_chinese": "\u53ef\u5927\u5370\u5237\u5716\u66f8\u5de5\u85dd\u516c\u53f8",
+        "address": "723, 725 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-421-4218",
+        "category": "Technology",
+        "subcategory": "Printing"
+    },
+    {
+        "name": "Leader Printing & Graphic.Co.",
+        "name_chinese": null,
+        "address": "760 Sacramento St.",
+        "address_unit": null,
+        "phone_number": "415-834-0926",
+        "category": "Technology",
+        "subcategory": "Printing"
+    },
+    {
+        "name": "Pacific Printing Co., Inc.",
+        "name_chinese": "\u5927\u5e73\u6d0b\u5370\u5237\u516c\u53f8",
+        "address": "733 Clay St.",
+        "address_unit": null,
+        "phone_number": "415-982-6749",
+        "category": "Technology",
+        "subcategory": "Printing"
+    },
+    {
+        "name": "San Francisco Printing",
+        "name_chinese": null,
+        "address": "758 Broadway",
+        "address_unit": null,
+        "phone_number": "415-362-1688",
+        "category": "Technology",
+        "subcategory": "Printing"
+    }
+]

@@ -35,16 +35,22 @@
        <div class="categorySelect">
          <label class="item item-input item-select">
            <div class="input-label">Category</div>
-           <select ng-model="selectedCategory" ng-init="selectedCategory='Restaurants'"
-                   ng-change="getMerchantsByCategory(selectedCategory)">
+           <select ng-model="curCategory">
              <option>Fashion &amp Beauty</option>
              <option>Health Services</option>
-             <option selected>Restaurants</option>
+             <option>Restaurants</option>
            </select>
          </label>
        </div>
-       <button ng-click="getMerchants()">Get Merchants</button>
-       <ul id='merchants'></ul>
+       <button class="button" ng-click="getMerchants()">Get All Merchants</button>
+       <button class="button" ng-click="getMerchantsByCategory()">Get Merchants by Category</button>
+
+       <ion-list id='merchants' style="width:100%">
+         <ion-item ng-repeat="merch in curMerchants">
+           {{ merch.name }}
+         </ion-item>
+       </ion-list>
+
       </ion-content>
     </ion-pane>
   </body>
